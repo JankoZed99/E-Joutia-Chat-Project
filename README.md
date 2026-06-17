@@ -110,7 +110,9 @@ e-joutia-chat-project/
         ├── ChatScreen.js
         └── ConversationsScreen.js
 ```
+## Authors
 
-## Author
+- Ayoub Hmamouchi
+- Loubna Kerouad
 
-Developed as part of the mini-project for the e-Joutia second-hand marketplace application.
+**Licence IDAI**
