@@ -1,4 +1,4 @@
-# e-Joutia Chat Project
+# E-Joutia Chat Project
 
 React Native / Expo prototype for **Project 5: Integrated Buyer-Seller Messaging**.
 
